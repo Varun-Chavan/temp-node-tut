@@ -1,0 +1,1 @@
+Here is the result:$c{first},Hello this is second text file
